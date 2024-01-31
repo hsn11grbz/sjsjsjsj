@@ -1,2 +1,2 @@
-# DENEMEIOS V 18.1.0
+# DENEMEIOS V 18.2.0
 Deneme iOS
